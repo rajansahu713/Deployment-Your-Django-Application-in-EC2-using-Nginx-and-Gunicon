@@ -1,0 +1,8 @@
+
+.env
+env
+
+blog/post/migrations/
+
+blog/blog/__pycache__/
+blog/post/__pycache__/
